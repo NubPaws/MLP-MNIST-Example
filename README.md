@@ -16,7 +16,7 @@ The project comes packaged with a GUI you can use to check the prediction and th
 We will be creating a 2 layer MLP as such:
 
 $$
-\mathrm{input _ layer} \longrightarrow \mathrm{hidden _ layer} \longrightarrow \mathrm{output _ layer}
+\text{input \_ layer} \longrightarrow \text{hidden \_ layer} \longrightarrow \text{output \_ layer}
 $$
 
 We'll now elaborate on what actually happens. Remainder, this is the flow for predicting a value, to learn, we'll have to apply a loss function on the output and use backwards propagation to calculate our gradients and optimize our weights.
