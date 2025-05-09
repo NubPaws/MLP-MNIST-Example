@@ -32,4 +32,4 @@ python3 app.py
 ```
 
 ## The Mathematics
-If you are interested in learning about the actual mathematics of this project and how an MLP works without looking at the code you can [click here to open MLP.pdf](./MLP.pdf) a pdf file (that can be found in the directory's root folder) that explains the derivations in full.
+If you are interested in learning about the actual mathematics of this project and how an MLP works without looking at the code you can [click here to open MLP.pdf](./resources/MLP.pdf) a pdf file (that can be found in the directory's root folder) that explains the derivations in full.
